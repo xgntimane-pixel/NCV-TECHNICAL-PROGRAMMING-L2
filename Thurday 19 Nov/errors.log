@@ -1,0 +1,10 @@
+Line 13: Mark is not a whole number | 10013,Lerato Mokoena,75;bad;80
+Line 36: Student name is missing | 10036,,70;65;80
+Line 59: Mark must be between 0 and 100 | 10059,Neo Mokoena,110;50;60
+Line 78: Duplicate student number | 10001,Duplicate Student,70;70;70
+Line 100: Expected student_number,name,mark1;mark2;mark3 | 10099,Wrong Format
+Line 122: Student number must contain digits | ABC12,Unknown,65;75;80
+Line 145: Mark is not a whole number | 10145,Missing Mark,60;;80
+Line 168: Mark is not a whole number | 10168,Negative Mark,-5;50;60
+Line 200: Exactly three marks are required | 10200,Too Few,55;60
+Line 224: Expected student_number,name,mark1;mark2;mark3 | 10224,Extra Comma,Name,50;60;70
